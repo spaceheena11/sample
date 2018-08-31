@@ -10,8 +10,6 @@
 11th commit in hotfix1
 12th commit in hotfix2
 14th commit in hotfix3
-<<<<<<< HEAD
 16th commit in master
-=======
 16th commit in hotfix4
->>>>>>> hotfix4
+19th commit in master
